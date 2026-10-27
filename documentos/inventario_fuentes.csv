@@ -1,0 +1,4 @@
+Fuente,Formato,Filas,Columnas,Nombres de Variables,Descripción
+Alumnado_UES,CSV,1000,19,"carnet, nombres, apellidos, fecha_nacimiento, edad, sexo, facultad, carrera, anio_ingreso, ciclo_actual, turno, municipio_residencia, zona, telefono, correo_institucional, acceso_internet_casa, trabaja, horas_trabajo_semana, beca",Datos demográficos y socioeconómicos
+Rendimiento_academicoUES,SQLite,1000,14,"carnet, ciclo, materia, nota_teoria, nota_laboratorio, nota_final, faltas_consecutivas, materia_reprobada, observacion_docente, tareas_entregadas, tareas_tarde, participacion_nivel, nivel_riesgo, probabilidad_desercion",Notas y métricas académicas
+bitacora_estudiantes_ues,JSON,1000,2,"carnet, historial_cualitativo",Historial cualitativo
