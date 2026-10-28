@@ -1,0 +1,13 @@
+municipio,zona,latitud,longitud,estudiantes,promedio_academico,nota_final_prom,asistencia_prom,actividad_lms_prom,prob_desercion_prom,horas_trabajo_prom,pct_riesgo_academico_alto,pct_riesgo_academico_medio,pct_riesgo_academico_bajo,pct_materia_reprobada,pct_requiere_seguimiento,pct_trabaja,pct_internet_si,pct_internet_limitado,pct_internet_no,pct_con_beca
+La Libertad Centro,Rural,13.6769,-89.2797,81,7.11,7.11,77.4,10.0,0.406,10.9,35.8,37.0,27.2,22.2,18.5,51.9,35.8,28.4,35.8,32.1
+La Libertad Este,Urbana,13.673,-89.248,75,7.09,7.09,75.5,9.7,0.512,9.9,46.7,36.0,17.3,17.3,13.3,46.7,22.7,41.3,36.0,50.7
+La Libertad Sur,Urbana,13.5867,-89.2872,81,7.14,7.14,75.8,9.4,0.472,11.2,34.6,40.7,24.7,18.5,8.6,51.9,32.1,28.4,39.5,32.1
+San Miguel Centro,Urbana,13.4833,-88.1833,85,7.07,7.07,75.5,9.3,0.521,10.8,56.5,25.9,17.6,24.7,15.3,51.8,48.2,25.9,25.9,44.7
+San Salvador Central,Urbana,13.6929,-89.2182,75,6.82,6.82,76.8,9.5,0.462,11.9,45.3,40.0,14.7,32.0,10.7,46.7,30.7,36.0,33.3,38.7
+San Salvador Este,Urbana,13.71,-89.1394,74,7.0,7.0,77.4,9.0,0.516,12.0,43.2,37.8,18.9,17.6,18.9,54.1,37.8,36.5,25.7,55.4
+San Salvador Norte,Urbana,13.8069,-89.1797,104,7.16,7.16,74.1,8.9,0.539,10.7,51.0,28.8,20.2,21.2,13.5,51.9,32.7,31.7,35.6,43.3
+San Salvador Oeste,Urbana,13.7403,-89.2133,72,7.07,7.07,75.8,11.1,0.506,12.2,44.4,36.1,19.4,15.3,15.3,50.0,29.2,41.7,29.2,54.2
+San Salvador Sur,Urbana,13.6544,-89.1828,83,6.95,6.95,76.6,7.6,0.526,13.6,53.0,31.3,15.7,24.1,18.1,57.8,32.5,34.9,32.5,44.6
+Santa Ana Centro,Urbana,13.9942,-89.5597,84,7.37,7.37,75.0,8.8,0.519,13.0,44.0,34.5,21.4,11.9,14.3,53.6,28.6,34.5,36.9,40.5
+Sonsonate Centro,Urbana,13.7189,-89.7242,95,7.04,7.04,77.8,11.3,0.472,11.8,49.5,20.0,30.5,28.4,18.9,51.6,34.7,30.5,34.7,31.6
+Usulután Este,Rural,13.35,-88.45,91,6.9,6.9,75.9,9.5,0.561,9.5,52.7,24.2,23.1,22.0,12.1,46.2,36.3,31.9,31.9,39.6

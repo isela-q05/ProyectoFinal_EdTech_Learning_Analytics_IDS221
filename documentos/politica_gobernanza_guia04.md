@@ -1,5 +1,5 @@
 
-# Política de Gobernanza - DataRetail AI
+# Política de Gobernanza 
 
 ## 1. Propósito
 Definir cómo se utilizan, protegen y comparten los datos del proyecto.

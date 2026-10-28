@@ -1,0 +1,1001 @@
+estudiante_token,nombre_mascarado,apellido_mascarado,rango_edad,telefono_mask,correo_mask,municipio_residencia,facultad,carrera
+ffbef291771f,C*************,R**************,25-34,****9617,r***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+0e51fd558f81,D**************,R************,<=24,****8610,r***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+5b16e46ee67e,M*************,F**************,<=24,****1064,f***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Eléctrica
+854620abbd46,R***********,R************,<=24,****8598,r***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+ee02fdf89254,H***********,P************,<=24,****3231,p***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+2dd8fd735671,D************,S**************,<=24,****1952,s***@ues.edu.sv,San Salvador Este,Medicina,Licenciatura en Enfermería
+708c15774c76,D************,R***********,<=24,****3409,r***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Contaduría Pública
+ac3aa6232159,V************,A***************,25-34,****5949,a***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Física
+315347112b67,E***********,M************,<=24,****8386,m***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+c4ee01ce43fa,D**********,R*************,25-34,****7272,r***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+b10255819bf3,R**************,A**************,<=24,****8645,a***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Medicina
+0c21b72eebd8,L********,R*************,25-34,****8463,r***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+839a4e4df822,E************,L**********,<=24,****8520,l***@ues.edu.sv,San Salvador Central,Medicina,Licenciatura en Laboratorio Clínico
+25b90b7bd3e4,M**********,C*************,25-34,****7126,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Ciencias de la Educación
+270784f9a673,M************,R************,<=24,****6024,r***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+88b06e005d04,R************,G**************,<=24,****2638,g***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+0f57cd7a1c07,F************,Á*************,<=24,****0626,á***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Arquitectura
+b973fad5ab49,G************,F**********,25-34,****8984,f***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Ciencias de la Educación
+f65167d31400,O*********,R**************,<=24,****6421,r***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+797848237982,H***********,F***********,<=24,****0760,f***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Economía
+519cf337011c,R***************,A***************,<=24,****8722,a***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+2a58da3f3e21,R************,G***************,25-34,****6074,g***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+6aa1fb8b0478,G*************,A***************,<=24,****8812,a***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+044e512bc199,J***********,A**************,<=24,****5131,a***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+f6f1d354e776,D************,G*************,<=24,****5589,g***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+84bd68bf08d9,M**************,C*************,<=24,****7466,c***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Economía
+896a88b0b914,E************,C*********,25-34,****6969,c***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+de372abc6c3f,M***********,Á**************,25-34,****8889,á***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Enfermería
+88205bdc5ad2,R************,S***************,25-34,****0460,s***@ues.edu.sv,San Miguel Centro,Medicina,Doctorado en Medicina
+4e83d09f33dc,C**********,C*****************,<=24,****9151,c***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+bf243bdd3f04,C*************,A*****************,25-34,****1237,a***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+1afb80955d35,R************,F**********,25-34,****1445,f***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+e3c291bf3874,V**************,H*****************,25-34,****6212,h***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Biología
+a0341f795bca,D***********,F***************,<=24,****4538,f***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Ciencias de la Educación
+9c2d41d89868,L************,P*************,25-34,****8490,p***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+bfb2c71a6869,O**********,M*************,<=24,****8559,m***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Biología
+9c65c059c51e,D**********,M************,25-34,****0435,m***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+d382bac0af45,L*********,R************,<=24,****0467,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Física
+11edb042e35a,M**********,R**********,<=24,****9425,r***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+3eb1d31f6031,A**************,G************,<=24,****5717,g***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+84a99e188913,C************,R***********,<=24,****8263,r***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+4daabb18e5ea,C************,G***********,25-34,****3958,g***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Economía
+53f5ad00c382,C**************,F*************,25-34,****7729,f***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Periodismo
+561ec41b4c98,R************,V************,<=24,****7933,v***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+24958323b7c0,D************,R**********,<=24,****3299,r***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Civil
+5165debe9c8b,S************,L***********,<=24,****0828,l***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0f05af3a44c5,M**********,F*************,25-34,****5213,f***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+fd377410434c,C************,A**************,25-34,****9614,a***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+d10096828a54,R************,A**************,25-34,****4059,a***@ues.edu.sv,Santa Ana Centro,Medicina,Doctorado en Cirugía Dental
+ff74ae4a99e2,F************,R***************,25-34,****5825,r***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+573ac55d0c1a,D***********,M************,25-34,****2516,m***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Cirugía Dental
+ba3741e1ad3d,V**********,M*************,25-34,****7072,m***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+21395278ba01,C**********,S*************,<=24,****2626,s***@ues.edu.sv,San Miguel Centro,Medicina,Licenciatura en Laboratorio Clínico
+4c2742f38755,J*********,M************,<=24,****6590,m***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+ce8f2447cb0b,L***********,C*****************,25-34,****1541,c***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Biología
+573f3a12f769,V**************,C***********,<=24,****4157,c***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+02065526b798,D**********,M*****************,<=24,****2227,m***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+478eef912aed,A*************,R*********,<=24,****8941,r***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+f4ade1102385,D************,H**************,<=24,****7492,h***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+0344ff8cb20c,M**************,H*****************,25-34,****7079,h***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0a90d470b5dc,C*************,A****************,<=24,****4224,a***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+d71f077795d5,V************,R**********,25-34,****0350,r***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Psicología
+dfda42ecfd43,F***************,Á**************,25-34,****8443,á***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+82d07968360a,L***********,D************,<=24,****6772,d***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Economía
+dd375a6ee416,S**********,C***************,<=24,****9813,c***@ues.edu.sv,San Salvador Central,Medicina,Doctorado en Cirugía Dental
+ca34571b34db,N************,M**************,25-34,****7350,m***@ues.edu.sv,San Salvador Este,Medicina,Doctorado en Medicina
+834f4fa98245,A***********,G****************,25-34,****1161,g***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+e8d481d51841,D***********,H***************,25-34,****7033,h***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+5f77313583db,C*************,L************,25-34,****1200,l***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+f2f71b2e91a5,G************,Á****************,<=24,****4058,á***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+8d3a0a20ade9,M*************,F**************,25-34,****0377,f***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+71a59984e639,K*********,A***************,<=24,****2904,a***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+2f705026afdf,G************,M**************,25-34,****3391,m***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e8fa50b7cf52,H***********,H****************,25-34,****9738,h***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+a0b9fe22809c,M************,A************,25-34,****4963,a***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+7475b6cdfb65,A***********,V**************,<=24,****3488,v***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+88142fdab1c9,O***********,V************,<=24,****0120,v***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+39f57c7210fd,A**************,R**************,<=24,****9802,r***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+122c507e6324,A***************,V************,<=24,****2141,v***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+8df992c85c93,K***********,M****************,<=24,****0691,m***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Civil
+2306b384915e,R************,G*****************,25-34,****0649,g***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Química
+185d143ba21d,R*************,R************,<=24,****7744,r***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Física
+23e42de4103f,N************,R**********,<=24,****0796,r***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+33b22394bd68,A*************,H***************,25-34,****3677,h***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Cirugía Dental
+4f5e4e703d24,O**********,A***************,<=24,****6115,a***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+97935f0cf7c0,N*************,D***********,<=24,****2080,d***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Eléctrica
+d38fed98548f,A******,V************,25-34,****4304,v***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+5bc41d2dea9b,A**************,G***************,25-34,****0110,g***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+3181e690d559,P**********,C************,<=24,****5176,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+b4f450c74297,O************,M************,<=24,****4555,m***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+2955c4e90757,M************,G**********,25-34,****6236,g***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Contaduría Pública
+ca23a7006800,K************,M*************,25-34,****4133,m***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+0080997527e0,D**************,R************,<=24,****7158,r***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Ciencias de la Educación
+3e8e5bc84b20,M**************,L**********,<=24,****8848,l***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Periodismo
+2be23a61f7b7,M**********,C*************,<=24,****6918,c***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Civil
+58a2758a1f09,L**********,M**************,25-34,****2560,m***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Idiomas Modernos
+f60ff2d407fa,J***********,M**************,<=24,****1768,m***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+46a1e2fdfc98,D**************,H**************,<=24,****1182,h***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+7822888c41b8,M************,G*************,25-34,****1875,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+e9c1f2dd3555,G*************,G***********,<=24,****8425,g***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Idiomas Modernos
+7d69a6ddc064,C*********,C***************,25-34,****1618,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+b0f69604149e,G*************,R**********,25-34,****4755,r***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+f9ecd098b694,F***************,Á************,<=24,****2642,á***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Cirugía Dental
+8f28bc7d35d0,M****************,A***************,25-34,****7602,a***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Matemática
+9907a597b2fd,K**********,A**************,25-34,****5796,a***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+cb88399b1682,C**************,R**************,25-34,****8503,r***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+3b50208556aa,G***************,G*************,<=24,****5861,g***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Periodismo
+22b61b547efe,J***********,R****************,<=24,****8346,r***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+e813dba36ada,D************,M*************,<=24,****2159,m***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+d1f7bc50ae33,R***************,P*********,<=24,****6168,p***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+0d2367b6e579,E***************,R************,<=24,****9375,r***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+1f470ba64f61,D************,G************,25-34,****5694,g***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Matemática
+548c2eff3f9d,V**************,Á***************,25-34,****4998,á***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+16fe1208eba0,C**************,M*************,25-34,****5964,m***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+4e3dc84276ff,K*************,R**************,25-34,****2421,r***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Enfermería
+f0c3c3006667,F***************,R**************,<=24,****2705,r***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e5776a44b119,S**********,G****************,<=24,****9081,g***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+236b3dc5e647,K************,C*************,25-34,****9190,c***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Economía
+fb2a249d4805,G*************,Á***************,<=24,****4287,á***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Ciencias de la Educación
+da9c1d7e595f,M***********,R***********,<=24,****7632,r***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+7dc61afb190e,M***********,M***********,<=24,****0201,m***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Ingeniería Agronómica
+b30c2a1f805f,K**************,C********,25-34,****4236,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+a079e6bcb872,F***************,R**********,<=24,****0815,r***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+a5fab3d9983e,S************,M**************,25-34,****5460,m***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+e949d40e76d3,J*********,L**************,25-34,****0845,l***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+951947002547,R**************,G************,25-34,****4929,g***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+7ef84de5b329,A********,G***********,<=24,****1137,g***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+0f434bc78b4e,C**************,R*****************,<=24,****6279,r***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+010a9309f0ad,A**************,M*************,<=24,****5780,m***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Ciencias de la Educación
+16c5e1ad0a7d,D**********,A************,<=24,****0962,a***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+401fb15653ad,F*************,H**************,<=24,****7078,h***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+c4da2822d150,J**********,G****************,<=24,****8762,g***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Economía
+891170a177af,L**************,H****************,<=24,****9117,h***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+3f41f6de78f5,S************,G**************,<=24,****7343,g***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+cfaf2804f9a3,S************,M***************,<=24,****2259,m***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+d3d076ce375c,V************,R**************,<=24,****4133,r***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Idiomas Modernos
+93339b575eb2,A**************,A************,<=24,****9642,a***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+f251d04b7d42,N*************,C***************,<=24,****6559,c***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Idiomas Modernos
+51b61d71567b,A**********,M**************,25-34,****5402,m***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+eb3bbc585243,R************,M***************,<=24,****2748,m***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+bb44da17129e,H***********,G**************,<=24,****3038,g***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+aba31179af85,M**********,A*************,<=24,****6578,a***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+c695a65eb125,F**************,V****************,<=24,****7990,v***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+1b8b76ded9dd,V**************,R**************,<=24,****7092,r***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Economía
+c91d014d30ba,K************,P*************,<=24,****2583,p***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+84f6ccd5f318,L************,G***********,25-34,****8921,g***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+a0d0b8cf8fe1,M**********,G*****************,25-34,****3122,g***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Arquitectura
+dc3207f53b42,M*************,C**********,25-34,****8518,c***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0c107a033544,V************,G***************,25-34,****1930,g***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+c8104e01cd7b,C*********,G*************,25-34,****9493,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+e9b0a64e42d2,G***************,R*************,<=24,****4796,r***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+d984025deca8,M***********,G**********,<=24,****0902,g***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+145ed7da4c92,E*************,A*************,<=24,****5402,a***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+5748280e8e26,R**************,V************,25-34,****6939,v***@ues.edu.sv,San Salvador Sur,Medicina,Doctorado en Cirugía Dental
+808ff1a646d5,A***********,G*************,<=24,****0722,g***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+8e199e7539f4,R***************,M**************,25-34,****4423,m***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Administración de Empresas
+eb3373049bad,D***********,Á**************,<=24,****0631,á***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Periodismo
+c532a886666d,R**************,Á************,25-34,****1778,á***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+36aa6c37dcad,M*************,R*************,<=24,****7844,r***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+0397af638505,L*************,R*************,<=24,****3049,r***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+7f1e943011d8,O***********,Á**************,25-34,****6421,á***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+0594c85ae616,J***********,R****************,<=24,****3749,r***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+d5a5136ccd35,A**************,H***************,25-34,****2981,h***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Psicología
+961e62430694,A************,G*************,<=24,****6334,g***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Civil
+c7655c27d020,C**************,C***********,<=24,****7159,c***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+8b453f73de32,M**********,F**************,<=24,****9179,f***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Arquitectura
+6067b72c73aa,A****************,Á***********,<=24,****7407,á***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Civil
+a1159d062d5e,J************,L**********,25-34,****6264,l***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+35e1386f7b0a,H**************,R**********,25-34,****3550,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Matemática
+54f384703e67,E**********,H**************,<=24,****9698,h***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Administración de Empresas
+51d949d61332,N************,C***************,25-34,****1825,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+ca6b831998ee,C*************,G*************,<=24,****2613,g***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Economía
+967bc4a4bca0,F*************,P*********,<=24,****0260,p***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+fe5a955ffbc9,G************,C***************,<=24,****0043,c***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+fc670ab187fa,C************,D**********,25-34,****0187,d***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e4c7f1a582ad,F***************,C************,25-34,****7328,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+864fb6c9c4e6,M***********,R*************,<=24,****4693,r***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Física
+e400512e1a3d,D************,M*************,<=24,****1261,m***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+5ee81b385726,G***********,H**************,25-34,****6214,h***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+c21b7cfe05d3,L**********,G***************,<=24,****3067,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+81339f614e95,J*********,C*************,<=24,****2470,c***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Ciencias de la Educación
+4abacecc1f93,R************,G****************,<=24,****3793,g***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Periodismo
+35cdebd39d06,A************,C**********,<=24,****8699,c***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+ec89703da9e1,A*****************,M************,<=24,****9674,m***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+9dfbb00abeb8,D***********,D********,<=24,****1481,d***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+01ebdef3c77d,F************,G*************,<=24,****2513,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+8e0ad863a847,G***************,M****************,<=24,****3541,m***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Biología
+944365a2db24,A********,R***********,<=24,****5838,r***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+4ece4f2043f3,P**********,P*************,<=24,****2822,p***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Enfermería
+61444897ae50,F*************,G*****************,<=24,****0629,g***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+fe6b629471b5,F*************,M**************,<=24,****3972,m***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+9aa4e4bdab85,G*************,C***************,25-34,****6637,c***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+2788c20126ee,J************,H**************,25-34,****8578,h***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+d8669dfc7a83,A************,R*************,25-34,****1703,r***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Idiomas Modernos
+1f3cb629fc46,E***********,C*************,<=24,****1165,c***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Ciencias de la Educación
+8e7f7dca2e50,L*********,V***********,<=24,****5541,v***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Psicología
+5c55112e301d,J**********,G****************,25-34,****3925,g***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+6588eac662e3,L**********,D*********,25-34,****9701,d***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+fb475d4f0843,R**************,M***************,25-34,****2817,m***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+c05929b134e2,M***********,M****************,25-34,****8182,m***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+05ad17ec603c,G*************,D***********,25-34,****6287,d***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+867a5b36de74,J**********,C***********,<=24,****6451,c***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Economía
+b93e078e1dd0,G*************,G**************,25-34,****1946,g***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+502e7dff77f3,D**********,R*************,<=24,****5321,r***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Física
+6e65ca29bc9f,F**************,M************,<=24,****6956,m***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+c14e516565ba,C***********,C************,<=24,****1152,c***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+42b585f13bdd,J**********,D*********,<=24,****6784,d***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+80288ccb513f,C**********,C***********,<=24,****7981,c***@ues.edu.sv,Santa Ana Centro,Medicina,Licenciatura en Laboratorio Clínico
+b9e5206b17ba,J***********,R*************,<=24,****0852,r***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Idiomas Modernos
+2689e4e18a87,M**************,Á****************,25-34,****9797,á***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Idiomas Modernos
+dd1117087a8d,N**************,R*************,25-34,****7783,r***@ues.edu.sv,San Miguel Centro,Medicina,Doctorado en Medicina
+18987a12fac8,S**********,L**********,<=24,****1861,l***@ues.edu.sv,Santa Ana Centro,Medicina,Doctorado en Cirugía Dental
+e345b3f1bf23,A*************,F*************,<=24,****3173,f***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Física
+21e0fa3bc183,N**************,C**************,<=24,****2096,c***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Laboratorio Clínico
+e0a53c2a6c8c,J*************,P**********,25-34,****5069,p***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+c360668cb3f3,L***********,C**********,<=24,****5843,c***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+abc1070f0004,J*********,C*************,<=24,****8245,c***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Ciencias de la Educación
+008fce24fec3,K**********,A************,<=24,****1552,a***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Idiomas Modernos
+f55c91203319,C***********,R************,25-34,****9896,r***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Ciencias de la Educación
+af8c5b9c178f,K**************,V***************,<=24,****2531,v***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Ciencias de la Educación
+1206962ce4d6,A*************,V************,25-34,****6066,v***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Matemática
+74a8f8ce0f24,G*************,R************,25-34,****7065,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Física
+4463b81ef9c5,M************,M****************,<=24,****0921,m***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+ff2763308256,E**********,V**************,<=24,****5156,v***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+3f83da9a1704,C*************,F************,<=24,****1195,f***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Idiomas Modernos
+b8d99c556f67,C************,G***********,<=24,****3722,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+ff258cdfba29,A*****************,P************,<=24,****8519,p***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Eléctrica
+1851feddcf96,R*************,D***********,25-34,****2519,d***@ues.edu.sv,San Miguel Centro,Medicina,Doctorado en Medicina
+938baa19aacc,E********,M****************,25-34,****3886,m***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+bbcbfe6e715f,G***********,R****************,<=24,****9844,r***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+03024d37bdf8,M********,C*************,<=24,****3729,c***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Idiomas Modernos
+f777006e948e,J***********,G***************,<=24,****8630,g***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Biología
+48b79480d8c0,V***************,C*************,25-34,****3843,c***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+c23a696b0862,K*********,A************,<=24,****1538,a***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+26113ee090cd,R*************,A************,<=24,****9930,a***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+06ef2770fa13,R**************,S**************,<=24,****3653,s***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+a690da1ec334,J*********,A************,<=24,****7588,a***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+75b3acd55010,J************,G*************,25-34,****8389,g***@ues.edu.sv,San Salvador Central,Medicina,Doctorado en Medicina
+6af415643ab5,S************,D*********,25-34,****6919,d***@ues.edu.sv,La Libertad Sur,Medicina,Doctorado en Cirugía Dental
+fcb499fb17d5,M***********,R***********,<=24,****4652,r***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+b938e910d11d,L***********,M***********,25-34,****8845,m***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+f30671820ce0,L************,Á***************,25-34,****7698,á***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+d8bae77f1d11,E************,C*************,<=24,****2399,c***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+78089e7fe8ab,M***********,C*************,25-34,****1540,c***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+e74cbf99e7f0,A****************,C**************,<=24,****2897,c***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+ceb9812f640e,V****************,V************,25-34,****0032,v***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+b8f43becc5c1,V**************,L*************,<=24,****1291,l***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+08fd6fac7d73,A*****************,R***********,25-34,****2121,r***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+f3958b07e061,C************,M*****************,<=24,****6962,m***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Psicología
+c9c3c69c7faa,A*************,C***********,<=24,****9324,c***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+de68114309b7,M************,C*************,25-34,****8998,c***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+310f2f22abfa,H*************,R****************,<=24,****1246,r***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+d6e0461fa085,D**************,C**************,<=24,****0569,c***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Contaduría Pública
+c7bb1ad2fe7f,C*************,F**************,25-34,****8411,f***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Civil
+3f4889ebd8b2,K************,C*************,25-34,****6666,c***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6b766343b09f,D**************,A***********,25-34,****8914,a***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+3915767e5b09,P***********,C**********,<=24,****4705,c***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Arquitectura
+de86616de040,G**************,G***********,25-34,****2073,g***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+6b0306aa1c69,S**********,R****************,<=24,****8595,r***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+f479ee2a0712,P**********,D*************,25-34,****2326,d***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+db1dc2305112,F***********,G*************,<=24,****8378,g***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+161c2ded4b34,L*************,A***************,<=24,****2420,a***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+189edd9831fa,A**************,P**********,25-34,****0446,p***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+a3882a793341,R***********,S***************,<=24,****3858,s***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Idiomas Modernos
+8b997fa8630e,F**************,R***********,25-34,****1830,r***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Psicología
+e50baf36033a,L************,R************,<=24,****5426,r***@ues.edu.sv,Sonsonate Centro,Medicina,Doctorado en Medicina
+32593b65ca47,L**********,G****************,25-34,****8732,g***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+825435d7ff5f,L************,G******************,25-34,****1926,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+1d813f7a9bda,D**********,A***************,<=24,****2127,a***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Periodismo
+348147fee5b0,E************,C*********,<=24,****5043,c***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+aebe15e70552,M**************,M*************,<=24,****6845,m***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+95bf1d002f1d,L***********,M*************,25-34,****9062,m***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Economía
+c28eac22db03,K************,R***********,<=24,****5041,r***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+49ffa943fa70,F***************,P**************,<=24,****7541,p***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+34659f876a9b,D*************,Á**************,<=24,****3603,á***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+17cdad461a6b,C***********,G******************,<=24,****3781,g***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0af667d8bd43,K***********,R*****************,<=24,****4764,r***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+03f82ee1375c,M***********,F***********,<=24,****5016,f***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Ciencias de la Educación
+5ab1eadc0da8,G*************,V************,25-34,****9627,v***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+d3f5471ffc9b,V**************,R**********,25-34,****0973,r***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Cirugía Dental
+87e4869c51a0,J*********,G*************,<=24,****5119,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+b7c7b77a1d7b,S**********,F*************,<=24,****7154,f***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+6aec7427fe20,M************,G************,25-34,****8620,g***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+08a277efadc7,P************,A***********,25-34,****2274,a***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+f03003ecf37d,A****************,R***************,<=24,****4226,r***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+8f41ca4d260c,C************,R***********,<=24,****3322,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Matemática
+03b392f2cde7,J************,H****************,<=24,****3153,h***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+f228830bfe7c,V**************,F***********,<=24,****6268,f***@ues.edu.sv,San Salvador Este,Medicina,Licenciatura en Enfermería
+482fe9d968ea,L***********,L***********,<=24,****3464,l***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+b2f538d8feab,E**************,C***********,<=24,****1749,c***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Arquitectura
+70e7fc292892,A*************,R**************,<=24,****7734,r***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+5fbc8c3954ce,D*************,R************,25-34,****7380,r***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Laboratorio Clínico
+4dfb310066a7,D**********,R*************,25-34,****3969,r***@ues.edu.sv,San Salvador Este,Ciencias Naturales y Matemática,Licenciatura en Química
+7ef20aa7eb0f,L**************,C**************,25-34,****3209,c***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Periodismo
+a8a91b0c2205,A****************,F*************,25-34,****6521,f***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+b5f07802284c,R************,D***********,<=24,****3805,d***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+f06e0ade55d5,S**********,P*********,25-34,****3093,p***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+fe27d269ec24,E*************,P**************,25-34,****0773,p***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+511b11aea33c,C*************,G*****************,25-34,****8787,g***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+e716aaa8c1ad,D************,P**************,25-34,****4441,p***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+054e39ad1959,N************,G****************,<=24,****1897,g***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Ciencias de la Educación
+7fb636b00c85,M**********,G*****************,<=24,****0314,g***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Ciencias de la Educación
+2aeacf713eab,C************,V**************,25-34,****6354,v***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+2a30c1399dd0,D****************,C***************,<=24,****8739,c***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Psicología
+fb4760e41453,F*************,F***********,<=24,****1973,f***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Periodismo
+31938f6f2be0,A***************,R*************,25-34,****4622,r***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Economía
+c5c47c24a114,J***********,C************,25-34,****9300,c***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Contaduría Pública
+f2dae7b03e95,M**************,A****************,25-34,****6460,a***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+e3f2e66a0668,R*************,M************,25-34,****4732,m***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+b57949c3282b,R************,R*****************,<=24,****7291,r***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+7f106b4c8610,J*********,M***************,<=24,****0000,m***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+c7a94469cd2b,M************,F**************,25-34,****8776,f***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+f911aea27f22,L***********,M***************,<=24,****2408,m***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+685211ba5c21,G***********,A*************,<=24,****5230,a***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+e9d2320011fe,E***********,G****************,25-34,****7860,g***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería Eléctrica
+9f1c7b5e8da8,D*************,R***********,25-34,****4276,r***@ues.edu.sv,San Salvador Central,Medicina,Doctorado en Medicina
+2eb2da8a28e1,L***********,G*************,<=24,****4023,g***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+d60b84b52baa,D**********,A**************,<=24,****0312,a***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Industrial
+05d1b8be9651,V**************,V****************,<=24,****3531,v***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+920d7683c326,C************,R*****************,25-34,****3511,r***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Arquitectura
+1f1287d5b780,V****************,C************,<=24,****1953,c***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+1b0ab9c07768,S************,C**********,25-34,****6555,c***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+45805e9c6d25,G************,H******************,<=24,****0197,h***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Ingeniería Agronómica
+d4eacadf0364,D*********,A***************,<=24,****4586,a***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+2d3c848e27f4,N**********,C**********,<=24,****1215,c***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+b6fae3b9fff2,J*********,F**************,<=24,****1306,f***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+13b5c057e220,R***************,V**************,<=24,****2187,v***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+b45b0a8aad41,J**********,M*************,25-34,****4801,m***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Biología
+46ea4e12cb13,V************,Á***************,25-34,****8625,á***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+cf6afa9060e7,A**********,M****************,25-34,****1142,m***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Psicología
+5cc77946de89,F*************,G****************,<=24,****0429,g***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+b3399bd032d9,M***************,R****************,<=24,****1498,r***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Ciencias de la Educación
+b559a6ab5b99,L***********,G****************,<=24,****6104,g***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+6706ee62df2a,M**********,R************,<=24,****1965,r***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Idiomas Modernos
+82d2019c0e82,C*************,H******************,<=24,****4972,h***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+000dbf9b9ad5,K**********,R**************,25-34,****6287,r***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+79f5d2118116,L*************,S**************,25-34,****0145,s***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Ciencias de la Educación
+0111340eada9,A**************,R****************,<=24,****9418,r***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+980287c20a62,J************,C**********,<=24,****3127,c***@ues.edu.sv,La Libertad Sur,Medicina,Doctorado en Medicina
+49a3049ebadc,F**************,G*************,<=24,****9105,g***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+08ecfbc2849e,C************,P************,<=24,****7294,p***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Medicina
+95bdb9596c1b,S**************,R*********,<=24,****6408,r***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+f82e310bde70,M*************,G*************,<=24,****8385,g***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+ff95f671612f,V************,Á************,<=24,****8764,á***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+00bfb1b45ce4,J************,M****************,<=24,****3437,m***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Administración de Empresas
+f953ba0304f3,F************,R************,25-34,****4870,r***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+e520681031a0,R*************,M*************,<=24,****0422,m***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+2bb639b693a7,E***********,D**********,<=24,****2106,d***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Idiomas Modernos
+eee2c411efaa,J**********,M**************,<=24,****4276,m***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+17507f0d58d8,R**************,G***************,<=24,****9386,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+a814cf1dae93,K********,M***************,<=24,****4898,m***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Cirugía Dental
+d43135b70e89,M**********,A***********,<=24,****8204,a***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Economía
+01d794590535,A*********,H***************,<=24,****6527,h***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+cf02ae1beb8d,A**************,R**************,25-34,****3533,r***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Cirugía Dental
+1413ba0c11ff,C*************,G***************,<=24,****3234,g***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+8198358117d1,G************,S************,25-34,****4205,s***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+0d63e24adb83,M***********,V*************,25-34,****8497,v***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+7188ecea45e1,C************,A***************,25-34,****2655,a***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+557ef4bade5f,A**************,M**************,<=24,****1683,m***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+522556024abf,M************,P**********,<=24,****6580,p***@ues.edu.sv,La Libertad Sur,Medicina,Licenciatura en Laboratorio Clínico
+3ec4a24a3d7c,M*************,R**************,<=24,****8065,r***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+0453e852e58f,D*************,R*************,25-34,****3729,r***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Civil
+e9e24e0313c0,F************,A*************,<=24,****2089,a***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+a61fbb610bb9,K************,D*********,<=24,****6315,d***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Industrial
+38a34e958147,P***********,R*************,<=24,****1810,r***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Psicología
+9e51fb13d7a1,L*************,G***************,<=24,****7540,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+232ac078d365,P**********,C*************,<=24,****4382,c***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+d2850fad5dff,D***********,G*************,25-34,****8759,g***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+ff859efb76c0,A****************,H***************,<=24,****7665,h***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Idiomas Modernos
+b6ea543f1c5f,V**************,V***************,25-34,****3947,v***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+b2c5d8d3cbde,E************,G*************,<=24,****0721,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+0afc0de01f28,N**************,H****************,<=24,****1651,h***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+136795cba5aa,D*********,A************,<=24,****9219,a***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Civil
+39e81dba67b1,C***********,A*************,<=24,****6775,a***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Ingeniería Agronómica
+6c0120cee703,S**********,Á***************,<=24,****6699,á***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+dcfc83d64860,A*********,P************,<=24,****2943,p***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+55a88591f726,R****************,C***********,25-34,****0800,c***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+70a3317f37e6,N************,M***************,<=24,****7824,m***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+265903feda50,M**********,G**************,<=24,****1993,g***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Economía
+00d81ff8fe22,J********,Á***************,<=24,****4901,á***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0be65bb8aefd,A*************,P*************,25-34,****3194,p***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Laboratorio Clínico
+b3bbc03950fa,G*************,L*************,<=24,****2597,l***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+4e11f92e7f9c,C************,R*************,<=24,****8480,r***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Mecánica
+ad4bcd9c5539,K**********,C************,<=24,****0719,c***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+e864b961108e,P********,M**************,25-34,****6729,m***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Física
+ae9253e71606,R**************,L************,<=24,****3641,l***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Mecánica
+de8cb4123390,P**********,C*************,<=24,****0939,c***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+6cd28f66dcf3,E****************,A*************,25-34,****0683,a***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+99722af0679a,C**************,M***************,<=24,****9400,m***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0caaad62044d,A*************,A*************,<=24,****7976,a***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Química
+152f2c2945eb,G***************,C***********,<=24,****3333,c***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Industrial
+c5183c5f62b9,C**************,G***********,<=24,****5908,g***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Laboratorio Clínico
+999e1d88a831,K*********,Á************,<=24,****0467,á***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+f417cad0a9dd,V****************,R**************,<=24,****2334,r***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Economía
+67e970dfa47b,J*********,G************,<=24,****2121,g***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+865dd2bd9547,L*********,A***************,<=24,****4355,a***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+c9002df42ee7,D************,R***********,<=24,****7151,r***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+681bfda72255,G************,G*************,<=24,****9426,g***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+bf8bb1e28bc2,K*************,R************,<=24,****3797,r***@ues.edu.sv,La Libertad Sur,Medicina,Licenciatura en Laboratorio Clínico
+957f2a698c31,J************,H***************,25-34,****3568,h***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+81fb88d6fee5,K***********,M************,<=24,****0761,m***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Biología
+ebc07f00e249,G***************,R**************,<=24,****1360,r***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Enfermería
+bdb296cc601f,A************,G**************,<=24,****7462,g***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+eb964d9de697,R************,M**************,25-34,****0778,m***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+2a201d13228a,J************,V*************,<=24,****2540,v***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+950eb83fce3b,C*************,V**************,<=24,****3612,v***@ues.edu.sv,San Salvador Sur,Medicina,Doctorado en Medicina
+41b28455f5a9,D***********,S****************,<=24,****5512,s***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Enfermería
+dc7a31a22335,E**************,H***************,25-34,****6874,h***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+d1b9a6f89c32,D************,V************,<=24,****1225,v***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+0ad8536a63e4,F*************,L*************,25-34,****1585,l***@ues.edu.sv,San Salvador Este,Medicina,Doctorado en Cirugía Dental
+887ff3704e84,H*************,L**************,<=24,****8431,l***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Cirugía Dental
+12cd9a408e62,D**************,D*********,25-34,****3044,d***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería Industrial
+cd55956b70b5,A*********,M**************,<=24,****8942,m***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+65c74e835fda,A*************,Á****************,25-34,****3024,á***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Enfermería
+e12dafbde166,C**************,G*************,<=24,****5907,g***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+8c996789bd39,K**************,D**********,<=24,****7423,d***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+471f07ce9b4b,A***********,R***********,25-34,****9421,r***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Administración de Empresas
+1873cb49f4b9,D***********,R**************,<=24,****5068,r***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Arquitectura
+a1ab84783f29,O************,A**************,25-34,****5191,a***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6f147f5c496f,M**********,G**********,<=24,****1669,g***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+5dd4198dea7b,A*************,R*************,<=24,****8119,r***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Economía
+0591cf32956e,M***********,Á************,<=24,****6004,á***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+b513ab97b757,M************,M**************,<=24,****1910,m***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+5a1de38e41c0,M**********,G***************,<=24,****1093,g***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+b3fb20b674f5,A********,G************,25-34,****7054,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+c0939fdff04f,M***************,G*****************,<=24,****3845,g***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6cecb84fddca,M************,R**********,25-34,****2891,r***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+f84e6969c506,A*************,L**************,25-34,****7496,l***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+309a8ab42c8d,C**************,C***************,25-34,****8306,c***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+e0b1eea51e12,R****************,G****************,<=24,****5416,g***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+984f2a8ad0c5,V*************,C*********,25-34,****6351,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+27ce32d2538d,A************,F***********,<=24,****8670,f***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Administración de Empresas
+b5054d01f439,L*************,Á**************,25-34,****2422,á***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Matemática
+b00a3640195e,V**************,R*****************,25-34,****2699,r***@ues.edu.sv,La Libertad Sur,Medicina,Licenciatura en Laboratorio Clínico
+0a963fdd6117,G*************,H*****************,25-34,****2293,h***@ues.edu.sv,Santa Ana Centro,Medicina,Doctorado en Medicina
+933a49beab50,C***********,R**********,<=24,****8798,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Física
+b557911c18e3,G**************,L**************,25-34,****6593,l***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Periodismo
+8e4656fbdb87,G*************,C**********,25-34,****0840,c***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Matemática
+cf75c2196ec1,A**************,L**********,25-34,****6238,l***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Economía
+9bd16c9eeaf3,V************,M*************,<=24,****1144,m***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+8b8a5a6abd07,C***********,R***************,<=24,****5661,r***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Periodismo
+679ca67845ff,F***************,M**************,<=24,****2110,m***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Mecánica
+97be27f007f9,E************,V**************,25-34,****1901,v***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e6082b831454,R************,R***********,25-34,****8796,r***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+5ed2ca233324,L**********,F************,<=24,****2262,f***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+7d703df58ff9,M************,C************,<=24,****1499,c***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Arquitectura
+5f26d9d56703,A**************,A************,<=24,****0860,a***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Enfermería
+267b03d0cfa8,D************,V************,25-34,****7183,v***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Laboratorio Clínico
+24e175b979da,K*********,A***************,<=24,****8035,a***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+10ed4417d367,P**********,C**********,<=24,****9477,c***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Idiomas Modernos
+c4d4fed0cde3,K**********,D*********,<=24,****5482,d***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+f1f462b5349a,A**************,R*************,25-34,****1039,r***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Periodismo
+0756aeb89424,R***************,A*************,<=24,****3678,a***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+e2fc1a618fb1,L*************,S*************,<=24,****5661,s***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Laboratorio Clínico
+9cf5b79126d9,C************,L************,<=24,****0398,l***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Física
+34b9ea32c71a,V************,P**************,<=24,****1002,p***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+b19768eea188,D***********,D*********,25-34,****8982,d***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+af2aa06c4235,D***********,Á**************,<=24,****5958,á***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+b70a31cb0e5d,D*************,F***********,<=24,****8767,f***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+652f9059eec0,D*************,A***************,<=24,****4088,a***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+2fd6ba080eca,D*********,R************,25-34,****9351,r***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+b4381da09e5f,A***********,L************,25-34,****8238,l***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+853918c12b1b,D**********,D*************,25-34,****3921,d***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Eléctrica
+af7b378a8eab,C*************,Á**************,25-34,****8092,á***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+18977bb11aa4,L**********,Á***********,25-34,****5023,á***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Contaduría Pública
+6455d1fcc649,J***********,R**************,<=24,****2832,r***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6de0ef64c63e,K***********,R*************,<=24,****1548,r***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+eced3ee75068,D***********,G****************,<=24,****0971,g***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Ciencias de la Educación
+a48af4f5a3f7,F***************,G**************,25-34,****9892,g***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Arquitectura
+9d15efcb8cd8,E*************,L*************,<=24,****4781,l***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Química
+43ab3305a69f,F************,D*********,25-34,****1408,d***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+f538b4131920,C************,A***************,<=24,****5792,a***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Psicología
+c27ac5e22848,C***********,R************,25-34,****1362,r***@ues.edu.sv,La Libertad Sur,Medicina,Licenciatura en Enfermería
+2b83d298dfba,A***************,R**************,<=24,****2194,r***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+5bf4dc33d74e,N*************,A**************,<=24,****1444,a***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Laboratorio Clínico
+138635dec770,V************,F*************,<=24,****6758,f***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Cirugía Dental
+ca2c12534b7e,D****************,R*************,<=24,****7280,r***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+6f12740a34bc,K**********,G**********,<=24,****6231,g***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Enfermería
+b26c58a98fa1,M***********,G*****************,25-34,****0604,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+3fb8cc532556,H***********,R***********,25-34,****4072,r***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+68515c3f1be1,K**********,L***********,25-34,****2705,l***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+b7df3a23d1d1,D**********,D************,25-34,****7303,d***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Medicina
+2cf207c79e21,M**************,M****************,<=24,****1517,m***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+d3d42d5302f7,L**********,R**************,25-34,****7465,r***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Ciencias de la Educación
+64d9fc04f2fe,E**********,A************,<=24,****5037,a***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Periodismo
+7ee714ee40c1,M************,C***************,<=24,****3523,c***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+687ee38e9a97,E*************,G**************,25-34,****3481,g***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+bb93730386f0,A*********,C***************,25-34,****3848,c***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+f28245a19e2b,R**************,A***************,25-34,****2554,a***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+067887bc2566,L**********,S**************,25-34,****7752,s***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+00abdd6da4fe,G*************,G*****************,25-34,****0076,g***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+09d38f6d1e6b,A************,V*************,<=24,****3039,v***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+4b76c0f591ec,A***********,G************,25-34,****0612,g***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+64be1fec4ac1,A************,R*************,<=24,****9916,r***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+ec38b627f4dc,P************,C********,<=24,****7504,c***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Cirugía Dental
+808829551c23,K***********,R**************,25-34,****0800,r***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+bd0946e11a25,S************,Á***********,25-34,****6397,á***@ues.edu.sv,San Salvador Sur,Medicina,Doctorado en Medicina
+233f2f414964,S***********,L***********,25-34,****8185,l***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Economía
+d24ffae549fb,J***********,C*********,<=24,****9297,c***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Psicología
+53b3f8e4f801,A************,G************,25-34,****0402,g***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+0bcaa3071a7f,R************,H****************,25-34,****4547,h***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Contaduría Pública
+f4516716be47,A**************,G************,25-34,****2471,g***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Cirugía Dental
+d6c01eb0d28b,H***********,G***********,25-34,****1314,g***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Industrial
+1e00d2b51419,C*************,A***********,<=24,****7055,a***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+c8c760d688b4,P************,G*************,<=24,****8895,g***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Mecánica
+014bc478260b,C**********,M**************,25-34,****5187,m***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+742da748a9f8,J***********,V***************,<=24,****0765,v***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+2b7febaf515e,D**********,R***********,25-34,****4869,r***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Ingeniería Agronómica
+c9cf61bc7b4e,H***********,F*************,<=24,****2864,f***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Medicina
+a23f0aa0a6d6,A************,A***************,25-34,****5868,a***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+efa5f1226cfc,S************,S************,25-34,****8529,s***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+6b9b79511852,G***********,D*************,<=24,****9506,d***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+d06c45b750a3,D*********,M***************,25-34,****8031,m***@ues.edu.sv,San Salvador Central,Medicina,Doctorado en Medicina
+a81c044fff43,D*************,A**************,25-34,****8325,a***@ues.edu.sv,San Miguel Centro,Medicina,Licenciatura en Laboratorio Clínico
+e60510cec537,J********,R****************,<=24,****5362,r***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+1fdc065b9555,G***************,M****************,25-34,****2659,m***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+f648643161e1,F***************,R******************,<=24,****1094,r***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+d1525302972f,L***********,S**************,<=24,****3069,s***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+138c18b97883,D************,M**************,<=24,****2321,m***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+1c7d2f68a9dc,O***********,G*************,25-34,****7579,g***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Economía
+ef8a73a4782a,J************,A*************,25-34,****7468,a***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Contaduría Pública
+e4c1ccf40106,G************,G************,25-34,****5286,g***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+73652b9819e6,M**************,Á****************,<=24,****4265,á***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Química
+d42452fd289d,V************,R************,<=24,****1298,r***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+0c0a21ce6325,K**********,F************,<=24,****0315,f***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Ingeniería Agronómica
+6cced4434f99,N***************,V*************,<=24,****1990,v***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+61d01bbb46e9,E************,M****************,<=24,****3373,m***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Psicología
+3d6cf5089c72,A******************,C*************,25-34,****9116,c***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+6b499d434d8a,C*************,R************,25-34,****2553,r***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+bc12a2f55884,R************,R***************,<=24,****6333,r***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+564f4dabe42c,C**************,R****************,25-34,****0817,r***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+763fc687f23d,V***************,D**********,25-34,****0711,d***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+f8be104f6c21,V************,L*********,<=24,****3399,l***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Periodismo
+b0b57f2ef5ed,M*********,C*********,25-34,****7551,c***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+a49e78bf9e82,J*********,C***************,25-34,****4685,c***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+dacadb2c0b7b,E****************,F*************,25-34,****0487,f***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+f3ec38804809,M***************,C***********,<=24,****8026,c***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+c4d638b23f0f,V***************,A*************,<=24,****1305,a***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Laboratorio Clínico
+f5cc844431c3,R************,G*****************,<=24,****1748,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+6020804917a4,D************,A***************,<=24,****5446,a***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+914b9dd50815,F***************,L***********,<=24,****8635,l***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Mecánica
+56209473a591,H***********,M************,25-34,****7150,m***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Ingeniería Agronómica
+9273d69bf9ac,J**********,R**************,25-34,****5713,r***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+84ae581baa08,A***************,D********,<=24,****1273,d***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+958988520f0c,C*************,M***********,25-34,****2088,m***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+fc2fdcd463c3,A*************,R***********,<=24,****3945,r***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Ciencias de la Educación
+75e4a68994e3,P**************,M***************,25-34,****7495,m***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Ingeniería Agronómica
+fc95095be7a2,J*********,V************,<=24,****5841,v***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+7afc960cbf70,E*************,M************,<=24,****2646,m***@ues.edu.sv,San Salvador Este,Ciencias Naturales y Matemática,Licenciatura en Física
+b81f27e4453e,G***************,M****************,25-34,****8456,m***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+268b9330ba0f,M***************,G**********,<=24,****9155,g***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Enfermería
+56d8298023e3,P**********,P**********,<=24,****3698,p***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+91ad9aaac825,H**************,F**********,<=24,****3282,f***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Ciencias de la Educación
+e883f443b102,E************,R*********,<=24,****9736,r***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Laboratorio Clínico
+88d060141bb1,M***********,F**************,<=24,****6901,f***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+3e82afe77e83,O***********,R************,<=24,****0504,r***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+8e6e8040c943,E************,H**************,<=24,****4148,h***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+02c3ca228a80,V************,R**********,25-34,****0089,r***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+bc826e9bd6d1,O*************,R*************,25-34,****2982,r***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+4765c5b69f82,C*************,L************,25-34,****0548,l***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Eléctrica
+a8d967b3baea,C**********,F**************,25-34,****2232,f***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+e2eec5646cf6,A*************,H*************,25-34,****5709,h***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Idiomas Modernos
+39ae52db4033,A****************,A****************,25-34,****5627,a***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Física
+db12c76e1a09,M************,G****************,25-34,****9651,g***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+c39d9b5eaee1,R**************,Á**************,<=24,****2976,á***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+5ffa885f17ca,V**************,R**************,25-34,****5948,r***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+532d8a5034bb,K***********,A***************,<=24,****2211,a***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+25f27c8f580d,D**************,F***********,<=24,****3945,f***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Civil
+8c36e9a88289,R***********,R************,25-34,****7462,r***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Psicología
+595d7db230c9,L*************,R************,<=24,****4326,r***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+8fa1fc0232d8,V************,G**********,<=24,****0473,g***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+47f046679dc5,C************,C********,25-34,****5760,c***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+ebfa369f8aca,D************,C**************,<=24,****4723,c***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Ciencias de la Educación
+14266d13f06f,C***********,A**************,25-34,****1318,a***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Laboratorio Clínico
+057a3c729ad3,N************,M***************,<=24,****2445,m***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+99d28baa5ae2,A****************,F*************,<=24,****3368,f***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+17084a7d1883,C************,R***********,<=24,****7456,r***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e0fcca175ab2,R*************,C***************,<=24,****4347,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+e4250fefab3b,J*********,R*************,<=24,****0029,r***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+85610c3e085d,J************,G*****************,<=24,****1501,g***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+0ab42c801ea8,J*********,S***************,<=24,****0920,s***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+594ed32e956f,G*************,M*************,25-34,****0896,m***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+4201e5bddf1c,M***********,D*************,<=24,****8414,d***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+255e819283f4,O************,C**************,25-34,****5349,c***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+613c5fdcdad9,A***************,V************,<=24,****0204,v***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+c240c5504062,R*************,A****************,<=24,****4883,a***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+5121ee96e4b6,K***********,R************,25-34,****5135,r***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+fed28726bb8e,S**********,G**************,25-34,****3794,g***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+f0b45a81a4ab,R*************,Á**************,<=24,****6277,á***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+b30545dcd1e0,L**************,V***************,<=24,****2986,v***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Economía
+c1d887be6738,C*************,R*****************,<=24,****5751,r***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Economía
+2ef3899c3249,F***************,L**************,25-34,****1046,l***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Cirugía Dental
+4dd38be212e1,M**********,C***************,<=24,****0428,c***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Cirugía Dental
+15d4e3a457b6,G*************,V***************,<=24,****4349,v***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Química
+7a109a006b61,A***********,A**************,25-34,****1983,a***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+c371f1d2504a,J**********,M****************,25-34,****1426,m***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Química
+098109963246,K**********,C*****************,25-34,****8974,c***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+ccfd12c337fc,A***************,Á************,25-34,****6984,á***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Ingeniería Agronómica
+ecdd456fc9a9,K**********,G**************,<=24,****2424,g***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Idiomas Modernos
+4ced4c7d600a,R***********,F*************,<=24,****6124,f***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Enfermería
+3595a10b236a,K***********,Á************,<=24,****3010,á***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Cirugía Dental
+b739b8ff82ff,N****************,Á**************,25-34,****4748,á***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+84aa72d44fd1,A***********,C*************,25-34,****7676,c***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Química
+eb9323b37311,M**************,M************,25-34,****8829,m***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Laboratorio Clínico
+05b24d7904bd,R*************,A*************,<=24,****3016,a***@ues.edu.sv,La Libertad Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+ef9154a434fb,D***********,G****************,<=24,****9233,g***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Psicología
+e9082c1159c7,R***********,M***************,<=24,****9721,m***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+609ce335398c,A************,R***********,25-34,****4437,r***@ues.edu.sv,San Miguel Centro,Medicina,Doctorado en Cirugía Dental
+00c3ebeeabea,M************,A***************,<=24,****6324,a***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+f6f2ff86a4b5,D************,M***************,25-34,****2202,m***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Idiomas Modernos
+62bbf397792e,G****************,R**************,25-34,****7748,r***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+534072e7beeb,C***********,L*********,<=24,****2295,l***@ues.edu.sv,San Salvador Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+0ef0f7dcfbaa,S************,M*************,<=24,****9921,m***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Química
+60e5d635d8c1,C**********,L***********,<=24,****3560,l***@ues.edu.sv,San Salvador Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+24434d1b5f5d,F***************,A***********,<=24,****0887,a***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+bc6139e46276,S********,Á***************,25-34,****6814,á***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Idiomas Modernos
+bc79e2444804,C***********,R*****************,<=24,****2180,r***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Idiomas Modernos
+582db167e6bc,L**********,D************,25-34,****8440,d***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Ciencias de la Educación
+147ca6250381,V**************,R***********,<=24,****9870,r***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Arquitectura
+b28193e3f24d,C***********,C***********,25-34,****6094,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+6313c5728fce,J*********,C************,25-34,****7971,c***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Periodismo
+5b961d130ecd,L**********,R*************,25-34,****1440,r***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Contaduría Pública
+86a088c6daaf,R***********,M****************,<=24,****2078,m***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+236f9f89820a,D************,P***********,25-34,****1551,p***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Contaduría Pública
+6f82481d333c,P**********,P*************,<=24,****7831,p***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+f6838f94363d,R***************,C***********,25-34,****4780,c***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Civil
+9e5d12c878dc,D***********,G****************,<=24,****4441,g***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Civil
+df73d8a1b400,G*************,A*****************,25-34,****0837,a***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Arquitectura
+35aae485b8a6,J**********,A**************,25-34,****4225,a***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+dcd83876470d,D**************,Á**************,25-34,****9915,á***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+efcc9491ce14,R***************,G************,<=24,****1387,g***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+6a6f0dc56686,J*********,R*************,25-34,****3937,r***@ues.edu.sv,Santa Ana Centro,Medicina,Licenciatura en Enfermería
+e38ab4ef0392,C*********,Á**************,25-34,****8002,á***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Ingeniería Agronómica
+0be18252e759,R****************,A*************,25-34,****7197,a***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+b4ba67ee0b27,G**************,Á************,25-34,****0490,á***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Civil
+084846ee7f1a,K************,G***************,<=24,****2418,g***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+78ec2c518b3f,R**************,G***********,<=24,****1707,g***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Matemática
+f47832b46438,G***************,V****************,<=24,****7786,v***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+51cee0c40024,G**************,R*****************,<=24,****1863,r***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+dbc921cba9e9,N*************,G***************,<=24,****4463,g***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+6fbd0bc045b8,R**************,G**************,<=24,****6360,g***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Laboratorio Clínico
+21e319e3283c,M***************,C*************,25-34,****4930,c***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+5a85dbab8737,A***********,A****************,<=24,****3020,a***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+51167b521119,A*************,R**********,25-34,****5286,r***@ues.edu.sv,San Salvador Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+49afbdb7d66c,D************,H*****************,25-34,****4330,h***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Física
+fffcf8c45e43,A**********,H*****************,<=24,****1554,h***@ues.edu.sv,San Salvador Este,Medicina,Doctorado en Cirugía Dental
+b5108a666748,V***************,D***********,25-34,****8075,d***@ues.edu.sv,Sonsonate Centro,Medicina,Doctorado en Medicina
+14501c7cd7c9,G***************,M**************,<=24,****6480,m***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+5f55ead3d3b1,J*************,Á************,25-34,****4815,á***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Idiomas Modernos
+ae7ce7ee64d3,S**********,M*************,25-34,****6702,m***@ues.edu.sv,San Salvador Sur,Medicina,Doctorado en Cirugía Dental
+3856cfe4dd5a,K***********,Á*************,25-34,****4372,á***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+d7aaddb9258a,M***********,D************,<=24,****2418,d***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Economía
+ac8cb409ed03,E**************,C***********,<=24,****5201,c***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+388c8a09c4c0,E***********,A**************,<=24,****6173,a***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Arquitectura
+4f69a46cd5fd,E**************,R***************,25-34,****8019,r***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+0e0cd0c5eec4,M**********,V***************,<=24,****8554,v***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Civil
+31ca3bf46cf6,R**************,Á**************,<=24,****5824,á***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+6da98238b4dd,J**********,R*************,25-34,****5553,r***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+d8bd41445b02,A****************,M************,25-34,****7202,m***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Civil
+8806029ca189,M************,G************,<=24,****2852,g***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6cef33d4cba6,C***********,G*****************,25-34,****7383,g***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Matemática
+29db00b57d52,J********,G***********,<=24,****9025,g***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+64c9a02e71bb,C*************,G******************,25-34,****5970,g***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+f38afae8ab18,O***********,R**************,<=24,****1356,r***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+7d83a3c9a0aa,D**********,D***********,<=24,****9637,d***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+2ae4570be419,C*************,G****************,<=24,****4030,g***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Civil
+19ece6adfeb0,J***********,M************,<=24,****3587,m***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+733b1f578fb5,A****************,G***************,25-34,****5864,g***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+7a15a9e27a7b,A***************,R**************,<=24,****1919,r***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Mecánica
+c93669bc0acd,H**********,F*************,<=24,****3563,f***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Laboratorio Clínico
+547eb541e293,F**************,A*****************,25-34,****8279,a***@ues.edu.sv,San Salvador Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+84372b6c3597,C************,R****************,<=24,****0768,r***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+450cb70e09f3,A*********,R***************,<=24,****9555,r***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0476778b5c44,V*************,A************,25-34,****2574,a***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Civil
+adb920311c17,D**********,R**************,25-34,****7626,r***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Cirugía Dental
+dec67f0c9b63,A*****************,F*************,25-34,****9975,f***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+5696b0ea14a9,M***************,R*************,<=24,****0317,r***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Enfermería
+3abee6b2f2f3,R*************,M***************,25-34,****2063,m***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+de9f21ed9c14,O************,G****************,<=24,****7293,g***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería Mecánica
+96772abb85fc,D***********,R**************,<=24,****3044,r***@ues.edu.sv,Sonsonate Centro,Medicina,Doctorado en Medicina
+0a8deaaab09e,N************,A***************,25-34,****1936,a***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+35c653c77008,D************,M************,25-34,****2424,m***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+0da9459fe7eb,M**********,C****************,<=24,****1768,c***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+f39798ced0ec,A****************,M***************,25-34,****9227,m***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+111c859d3776,D************,A*************,25-34,****2016,a***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+0bac7d35cb35,D***********,R************,25-34,****5058,r***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+9df1855f4ecb,J***********,C*********,<=24,****2004,c***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Ciencias de la Educación
+29761d0a83a4,D************,G**********,<=24,****7352,g***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Cirugía Dental
+007fe6ff16ab,R****************,L***********,<=24,****7381,l***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Periodismo
+bb794d141463,F*************,G******************,25-34,****8891,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+f0660bdc565c,R**************,C**********,<=24,****1949,c***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Laboratorio Clínico
+23e306f9b18d,N*************,C**********,25-34,****5438,c***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+4451e2136e77,E**********,G***************,<=24,****7912,g***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+2f149f043458,D***********,S**************,25-34,****5530,s***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+40d82c5ebba5,J*********,G****************,25-34,****2570,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+9a1ed6a0b76a,M*************,C**************,<=24,****9601,c***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Laboratorio Clínico
+6714755743fe,J*********,C**********,25-34,****8332,c***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Física
+3847268bba75,E************,G**************,25-34,****9578,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+3d7cfb4abc31,G***********,M***************,<=24,****5186,m***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+b4487a8a0ce6,H************,M**************,<=24,****5071,m***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Eléctrica
+74d4316c8c82,M***********,Á***********,<=24,****0822,á***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+60eb904e7c86,J*************,L************,25-34,****1400,l***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Ciencias de la Educación
+150855dc4450,C***********,G**************,25-34,****5706,g***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Economía
+099a9e7ee842,L********,F************,25-34,****9119,f***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+7a36bc664024,E**************,D*********,<=24,****7142,d***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Civil
+e9e25220e081,R*************,S************,25-34,****6651,s***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería Industrial
+76c34acab47a,F*************,G**************,<=24,****5245,g***@ues.edu.sv,La Libertad Sur,Medicina,Doctorado en Medicina
+351eee9adcc2,V**********,A************,25-34,****8545,a***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Arquitectura
+002a075318e3,J**********,C************,<=24,****3044,c***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Laboratorio Clínico
+01731bc1e5e8,S************,C**************,<=24,****8561,c***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Medicina
+3f32d2b1839d,C**************,M**************,25-34,****6290,m***@ues.edu.sv,San Miguel Centro,Medicina,Doctorado en Medicina
+2f6f13ffa04a,S************,P***********,<=24,****9194,p***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+c50677a0e605,F***************,M*************,<=24,****3698,m***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Ingeniería Agronómica
+434bed9558ab,K**********,V************,25-34,****8529,v***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Arquitectura
+1ad1f6f100e1,F*************,R*************,<=24,****5412,r***@ues.edu.sv,Sonsonate Centro,Medicina,Doctorado en Cirugía Dental
+053af1c9414b,J*********,S***********,<=24,****6948,s***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+9971d02d865b,V*************,G*****************,<=24,****4283,g***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+6ea013959366,A*************,R************,25-34,****0358,r***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Periodismo
+1065a5d8a261,A***************,R*************,<=24,****9100,r***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+d1e496ff6054,A**************,R***********,<=24,****9893,r***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Medicina
+a11cbe9d0c20,M*************,G**************,<=24,****3497,g***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Cirugía Dental
+77a4de96bd90,J********,A***************,<=24,****6576,a***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Laboratorio Clínico
+68807e1f500d,C************,D***********,25-34,****8826,d***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Periodismo
+01e9a28ea7c2,P************,C*************,25-34,****1440,c***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Cirugía Dental
+d80496a9ec3a,C**************,P**********,25-34,****9277,p***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Economía
+937b67072000,C************,R****************,25-34,****8851,r***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Laboratorio Clínico
+25d818b436e1,S**********,F**************,<=24,****6370,f***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+6e71f45f7136,A**************,R**********,<=24,****5477,r***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+0931c116a3e1,M************,R*************,<=24,****0733,r***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Idiomas Modernos
+b2c5d76efd7f,F************,H**************,25-34,****0393,h***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+2423e4e2192f,K**********,Á**************,<=24,****2981,á***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Industrial
+826fad252b47,A****************,A************,25-34,****2506,a***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Ingeniería Agronómica
+e5d69473dc4d,M**********,C**************,<=24,****3468,c***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Ciencias de la Educación
+0a156fe92e60,G***********,G************,<=24,****5428,g***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+e49256bfc783,G************,C****************,<=24,****8743,c***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Arquitectura
+c0b64d7018ea,R***************,V***********,<=24,****3836,v***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+d8b8cb5310bd,R**************,R****************,<=24,****9887,r***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Ingeniería Civil
+72db78666362,L***********,A*************,<=24,****5085,a***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+e4fb452df1db,A**************,G***********,<=24,****8124,g***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Ciencias de la Educación
+dfa680b1e6ab,V****************,R***********,25-34,****8658,r***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Periodismo
+23a2402b253b,N*************,M************,<=24,****0492,m***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+ef7a20a67382,A****************,C***************,25-34,****2142,c***@ues.edu.sv,San Salvador Central,Medicina,Doctorado en Cirugía Dental
+62b150282b17,H************,C***********,25-34,****6555,c***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+8d94bd97c884,F***************,A*************,25-34,****4826,a***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Biología
+17bff1743ac8,M*************,L**************,25-34,****6708,l***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Psicología
+cac446d75bf2,A***************,F***********,<=24,****2337,f***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+5ac0c46f2020,D**********,R**************,<=24,****4401,r***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+16c02ab556e9,O***********,S*************,<=24,****0151,s***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+79f9e8de84b0,R***************,F************,25-34,****2025,f***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+970d33694ebb,L*********,M****************,25-34,****3821,m***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Periodismo
+727f50acd5f9,A***************,R*************,<=24,****4344,r***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+6946f8fd2aef,L**********,C*************,25-34,****1258,c***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+670a72af309e,E************,Á*************,25-34,****6829,á***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+e0cd909d1c0e,O************,G******************,<=24,****4279,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+fc9b3391cf65,F*************,R**********,<=24,****7064,r***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Biología
+92dadaf3a633,A*************,D*********,<=24,****2010,d***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+3578c211c710,R*************,A**************,25-34,****5998,a***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Química
+bdecb013a8bf,C*************,F************,<=24,****4182,f***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Medicina
+61b6affc594d,F**************,S**************,25-34,****7564,s***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+2493892977b0,G**************,M**************,25-34,****9040,m***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Química
+8221d9a6e35c,D***********,R*************,25-34,****3340,r***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Enfermería
+f5d262fa30f0,V**************,R**************,<=24,****0022,r***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Arquitectura
+6f08bdac7da9,D***********,M*************,<=24,****1232,m***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Medicina
+fb0f12d63f99,A*************,P************,<=24,****5842,p***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+803f7dc4b75a,R************,Á***********,25-34,****7986,á***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Periodismo
+7b4d39e3376c,F***************,P**********,<=24,****0608,p***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+ed487f572609,G***************,R****************,25-34,****7097,r***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Psicología
+b2a0566886d5,M**********,P************,25-34,****2315,p***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+49c3669e6c0c,G************,C************,<=24,****5083,c***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+115f0fe11e9b,J**********,V***********,<=24,****8161,v***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+b048ec2df50c,S************,C***********,25-34,****2459,c***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+2763ba3f7878,A*************,V**************,<=24,****1327,v***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+de67e475ccc4,P**********,C****************,25-34,****7795,c***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+9fa8dd660fcc,M************,C************,<=24,****9352,c***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+fe9812d21fa5,A****************,G*************,<=24,****5885,g***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Periodismo
+cfb56d8f10e7,M************,R****************,<=24,****3342,r***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Arquitectura
+86ba3975303f,L**********,L*************,<=24,****8455,l***@ues.edu.sv,La Libertad Sur,Medicina,Licenciatura en Laboratorio Clínico
+59452d284ff7,G************,G****************,<=24,****1355,g***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Biología
+c7e414484a58,M*************,A**************,<=24,****9930,a***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+28f42a1a42e2,V************,F**************,<=24,****2869,f***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+508948b75177,M***********,F************,<=24,****7910,f***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Periodismo
+d4492d87dfd7,N************,M**************,25-34,****5645,m***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Medicina
+1b4396c287ec,V**************,R**********,<=24,****3358,r***@ues.edu.sv,La Libertad Sur,Medicina,Doctorado en Medicina
+5645e52dd98f,A**************,A**************,25-34,****1375,a***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+beaaada8134d,V************,C***********,<=24,****6331,c***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Enfermería
+356c3988f7a6,M**************,H****************,25-34,****5708,h***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+4fb9ea021214,C***************,P*********,<=24,****6944,p***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Física
+9121873d3b36,V************,Á**************,25-34,****9901,á***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+844c4cf212ed,O***********,A***************,<=24,****0978,a***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+ca0b4575fbc7,S**********,S*************,<=24,****7521,s***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+1588a4ac866c,C**********,A**************,25-34,****2394,a***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Matemática
+1a2b35305d61,R**************,A****************,25-34,****6700,a***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+e395569fa01f,A************,R************,25-34,****2891,r***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Periodismo
+028f1b5b4d94,A**************,R***********,<=24,****8836,r***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Industrial
+39c967115157,F****************,R*************,25-34,****1477,r***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+0b94ecea485f,D************,S*************,<=24,****2506,s***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Civil
+40eddb0f3758,D************,D*************,25-34,****4839,d***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Ingeniería Agronómica
+d8b2f916748c,V**************,M**************,<=24,****6131,m***@ues.edu.sv,La Libertad Sur,Ciencias Agronómicas,Ingeniería Agronómica
+cfbbeed009aa,R***********,D*************,25-34,****9974,d***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+b6d61fdea31d,G***********,Á*************,<=24,****8319,á***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+40b64842f33c,C*************,C**************,25-34,****4845,c***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+ad1e77264b18,N************,R***************,<=24,****1775,r***@ues.edu.sv,San Salvador Oeste,Ciencias Naturales y Matemática,Licenciatura en Química
+376d09eff114,A*****************,M************,25-34,****6462,m***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+68569db169d8,K*************,P***********,<=24,****9044,p***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Periodismo
+52bdd71d9a53,A****************,R**********,<=24,****0674,r***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+ddf3068db734,F***********,C****************,<=24,****9161,c***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+1e4240a1f215,E************,C************,<=24,****2641,c***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Eléctrica
+29ff4a861e3f,F***************,R*************,<=24,****4289,r***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+14e9716282e7,K************,R*************,<=24,****5391,r***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+69270dd6a702,C***************,L**********,25-34,****3104,l***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Ciencias de la Educación
+b03ddd78118a,N**************,C***************,25-34,****4820,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+b567ae00e1c6,D**************,V***********,25-34,****6661,v***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Psicología
+cebad8693256,E************,R***************,<=24,****3084,r***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+72d78578e3b1,H**************,G***************,<=24,****2370,g***@ues.edu.sv,La Libertad Centro,Ciencias Agronómicas,Ingeniería Agronómica
+4a8832716377,D************,M****************,<=24,****7361,m***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+5914b837c68c,R************,R*************,<=24,****2770,r***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Enfermería
+0d6271ca295a,C************,Á***************,<=24,****5667,á***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Periodismo
+184761e86bdd,M**********,R*****************,<=24,****3056,r***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería Eléctrica
+695a89a69dd2,L************,G***************,<=24,****3406,g***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+0b19bf42e48f,K***********,G**************,<=24,****0016,g***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Laboratorio Clínico
+1f5dc7298ad2,D************,M**************,<=24,****0283,m***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Civil
+b37c40544adf,D***********,C****************,25-34,****1785,c***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Física
+aa6e408116ab,O*********,P**************,<=24,****6957,p***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Cirugía Dental
+5cfbfea9a418,M**********,C**********,<=24,****4323,c***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+87ce8b5b3e34,E************,M***************,<=24,****6035,m***@ues.edu.sv,San Salvador Oeste,Ingeniería y Arquitectura,Ingeniería Civil
+8fffa95e8066,D************,A**************,25-34,****2729,a***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+e499e21c4191,J**********,F***********,<=24,****6784,f***@ues.edu.sv,La Libertad Este,Humanidades,Licenciatura en Ciencias de la Educación
+61fe42ec28e7,R***********,S************,25-34,****8120,s***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Industrial
+4d9a1217ae0e,C**************,M**************,25-34,****9890,m***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+564fc0d62478,V**************,A************,<=24,****2476,a***@ues.edu.sv,San Miguel Centro,Humanidades,Licenciatura en Periodismo
+e19ef49ac464,H*************,M***************,25-34,****3109,m***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+9a4aa225b924,A***************,C****************,<=24,****9214,c***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Arquitectura
+537105d87d8b,D***********,Á****************,<=24,****5180,á***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Eléctrica
+d837e7be45e6,M**********,F***********,<=24,****5363,f***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+00809b673e7e,P************,S**************,<=24,****4392,s***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Economía
+14f9653d673d,J***********,G**************,25-34,****2945,g***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+1626400b7e12,R**************,L************,<=24,****0367,l***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+1856dea69b8a,E**********,G***************,25-34,****7247,g***@ues.edu.sv,San Salvador Oeste,Humanidades,Licenciatura en Psicología
+f5463a18bf71,D**************,H****************,<=24,****9361,h***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Laboratorio Clínico
+b35df4c93c5a,N*************,H*************,<=24,****6639,h***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Ciencias de la Educación
+4b9c0869355a,M**********,P**************,<=24,****3883,p***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Ciencias de la Educación
+9e1b9cadd355,R****************,G************,<=24,****6118,g***@ues.edu.sv,Santa Ana Centro,Humanidades,Licenciatura en Idiomas Modernos
+425113162105,M*************,C**************,<=24,****7437,c***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Física
+d023885d5a67,R************,F***********,<=24,****9395,f***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+611ab10f2f7e,V**************,P*********,<=24,****4237,p***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+11ac6e1eb135,P**********,C*********,<=24,****8956,c***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+645ac3bdedf0,D**************,R**************,25-34,****5143,r***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Administración de Empresas
+ba932d0b4a2c,N************,A**************,<=24,****9322,a***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Cirugía Dental
+10ca14f724f7,H***********,M*************,<=24,****6492,m***@ues.edu.sv,San Salvador Este,Medicina,Doctorado en Cirugía Dental
+a794f5c4a38f,A**************,M************,<=24,****3329,m***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+1db69fdc2084,S***********,R************,<=24,****5656,r***@ues.edu.sv,San Salvador Este,Medicina,Licenciatura en Laboratorio Clínico
+20917494fb8c,D************,H*****************,<=24,****7806,h***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+a3b1a70db234,M**********,Á***************,<=24,****4495,á***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Mecánica
+269af198b33a,E**********,R**********,25-34,****0780,r***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería Civil
+022e1ad43c65,V**************,V**************,<=24,****9957,v***@ues.edu.sv,Sonsonate Centro,Medicina,Doctorado en Medicina
+c5ad3112028b,C*************,R******************,25-34,****8763,r***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Arquitectura
+11dc89c48a2b,K**********,R***********,25-34,****0604,r***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+41d7720bc822,G***************,G**************,25-34,****7934,g***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6a4a7f061552,L************,R************,<=24,****2953,r***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Periodismo
+335c692188eb,V**************,G*********,25-34,****4069,g***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Ciencias de la Educación
+88b378759568,V************,Á***********,25-34,****3508,á***@ues.edu.sv,San Salvador Norte,Ciencias Naturales y Matemática,Licenciatura en Biología
+9b08f5e190a3,H************,G*************,<=24,****7062,g***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+6972d63935e0,G***************,R*********,25-34,****6737,r***@ues.edu.sv,La Libertad Centro,Medicina,Licenciatura en Enfermería
+0729ededffa3,G*************,R**************,<=24,****9417,r***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+5b8b9310ac1a,E**********,H******************,<=24,****0651,h***@ues.edu.sv,San Salvador Central,Ciencias Naturales y Matemática,Licenciatura en Matemática
+11c38188d952,L********,L**********,<=24,****5781,l***@ues.edu.sv,San Salvador Oeste,Ciencias Económicas,Licenciatura en Economía
+9ff1c3675353,A************,C***********,25-34,****1940,c***@ues.edu.sv,La Libertad Sur,Ciencias Económicas,Licenciatura en Contaduría Pública
+5920e7616ca1,L*********,H****************,25-34,****1864,h***@ues.edu.sv,Usulután Este,Medicina,Doctorado en Medicina
+3c0c458f5ed9,G***************,M**************,<=24,****2941,m***@ues.edu.sv,San Salvador Norte,Medicina,Licenciatura en Enfermería
+897c8c709fc6,M************,G*************,<=24,****8620,g***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+426465d73580,K*************,A************,<=24,****8614,a***@ues.edu.sv,La Libertad Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+4025be5cfa44,D***********,G***************,<=24,****8914,g***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+a3513b7b8026,M**************,R*************,25-34,****0411,r***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+f7797310baba,M*************,M****************,<=24,****1665,m***@ues.edu.sv,San Miguel Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+12a7dc39ce1a,C**************,C***********,25-34,****9922,c***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+0cedaaa2799c,C**************,C*****************,25-34,****0071,c***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+7e107e78da3e,M************,C***********,<=24,****9095,c***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+1357c4e7c359,R************,S***************,<=24,****8114,s***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+201ff894ea05,G***********,D***********,25-34,****8816,d***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Economía
+4205d4ca7a35,R**************,L***********,25-34,****2360,l***@ues.edu.sv,Santa Ana Centro,Medicina,Doctorado en Medicina
+88ec1b29608c,A*************,C****************,25-34,****6338,c***@ues.edu.sv,Sonsonate Centro,Medicina,Licenciatura en Laboratorio Clínico
+5dafd50e15a0,N**************,D**********,<=24,****0326,d***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Economía
+beed690a8642,M***********,R***************,25-34,****1340,r***@ues.edu.sv,La Libertad Este,Ciencias Económicas,Licenciatura en Economía
+3d0d4d1e9015,E************,G**************,<=24,****9658,g***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Ingeniería Agronómica
+d79661fbc0c7,D*************,C************,<=24,****9128,c***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+1caf2ede24c8,C*************,S************,25-34,****7285,s***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Medicina
+5d59d6b9c236,S**********,R*************,<=24,****8393,r***@ues.edu.sv,La Libertad Este,Ingeniería y Arquitectura,Ingeniería Mecánica
+06217ec25def,A************,L*************,<=24,****7072,l***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+b0ecc9884418,R**************,M****************,25-34,****4868,m***@ues.edu.sv,San Salvador Oeste,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+046b6be21335,R************,C************,25-34,****1603,c***@ues.edu.sv,La Libertad Este,Ciencias Agronómicas,Ingeniería Agronómica
+99f1a5e9999b,A*****************,S****************,25-34,****0724,s***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+471828b4d843,K***********,G*************,<=24,****9271,g***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Ingeniería Mecánica
+0fc81d9be147,C**************,A*************,25-34,****9672,a***@ues.edu.sv,Usulután Este,Ciencias Naturales y Matemática,Licenciatura en Matemática
+f938f221ce98,E************,M***********,<=24,****0836,m***@ues.edu.sv,San Salvador Sur,Ciencias Naturales y Matemática,Licenciatura en Matemática
+390f98850e83,R************,R******************,<=24,****9406,r***@ues.edu.sv,San Salvador Central,Ciencias Económicas,Licenciatura en Contaduría Pública
+6c127860838a,C************,C*********,25-34,****5974,c***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Contaduría Pública
+1a6e517661c1,O*********,G**********,<=24,****8327,g***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Idiomas Modernos
+a10d650026b7,G**************,A**************,25-34,****4997,a***@ues.edu.sv,Usulután Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+10d37028d699,A**************,H****************,25-34,****4913,h***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Economía
+6315329ceb24,D**********,R**************,25-34,****2067,r***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Ingeniería Civil
+2257bb4c6fad,S************,C************,25-34,****3433,c***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Economía
+7b686cb32fbd,V************,F**********,<=24,****6050,f***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+452b4acd919a,D************,H**************,<=24,****3902,h***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Idiomas Modernos
+75ad4c11f26e,A****************,C***********,<=24,****1881,c***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Civil
+fb1e5a6a3ba1,J***********,C***********,<=24,****3956,c***@ues.edu.sv,La Libertad Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+569945c2519f,R**************,R**************,<=24,****3201,r***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería Mecánica
+73cddda23353,L*********,V***********,25-34,****5911,v***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+705925cd15b7,H**********,S**************,25-34,****7991,s***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+e05321d2f4af,J**********,M****************,<=24,****3150,m***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Laboratorio Clínico
+ced848b33b64,J*********,R**************,<=24,****7551,r***@ues.edu.sv,San Salvador Norte,Medicina,Doctorado en Medicina
+0bdf1390c3cc,H************,M***************,<=24,****9068,m***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+cb9e47c6ecfb,A**************,M****************,<=24,****1953,m***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+dae6f94d1ebc,V**************,G************,<=24,****8311,g***@ues.edu.sv,Santa Ana Centro,Ciencias Agronómicas,Ingeniería Agronómica
+1640b3171acb,D*************,A************,<=24,****0218,a***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+9b15d902c5d6,C*************,R**************,<=24,****0405,r***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+740f00534a83,E**********,G*************,25-34,****2993,g***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Economía
+1598f6a147e8,A**************,R***********,25-34,****5643,r***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+50a218f0c2c9,M********,R**************,<=24,****1022,r***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Administración de Empresas
+2e2a8f4e40bd,M***********,S**************,<=24,****2422,s***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Ingeniería Agronómica
+c87f1294d056,K**********,M************,<=24,****0109,m***@ues.edu.sv,Usulután Este,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+901353accec3,M***************,M***************,<=24,****8859,m***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+eb7c3551c201,C**************,A************,25-34,****3065,a***@ues.edu.sv,San Miguel Centro,Ciencias Naturales y Matemática,Licenciatura en Química
+3d76759911ea,A***************,C**************,<=24,****4493,c***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Civil
+8b9998e9cd92,V************,G****************,<=24,****1709,g***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+733e8dc0399a,D***********,G***********,<=24,****6356,g***@ues.edu.sv,San Salvador Central,Humanidades,Licenciatura en Idiomas Modernos
+41da02dc2aaf,L***********,M************,<=24,****1049,m***@ues.edu.sv,La Libertad Centro,Medicina,Doctorado en Medicina
+d7be1c399a2c,F*************,G***************,<=24,****1414,g***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Psicología
+355a946ac2d8,K**********,C************,<=24,****6870,c***@ues.edu.sv,Usulután Este,Humanidades,Licenciatura en Periodismo
+d34b715aa56d,A**********,G***********,<=24,****6937,g***@ues.edu.sv,San Miguel Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+43a17b6c2d17,A****************,R***********,<=24,****6781,r***@ues.edu.sv,San Salvador Norte,Ciencias Agronómicas,Ingeniería Agronómica
+73f5dcac7805,R************,D*************,25-34,****0263,d***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Biología
+3bf5d698827e,G***************,D***********,<=24,****9179,d***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+5406eedfc6d1,E**********,R**************,<=24,****8481,r***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+a198d44c339d,L***********,A**************,<=24,****0908,a***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Contaduría Pública
+18d1b90bca07,V*************,R***********,<=24,****8372,r***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+4589358f5b00,M************,G*****************,<=24,****7106,g***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+9a3809ab58a1,K**********,S************,25-34,****9252,s***@ues.edu.sv,San Salvador Sur,Ciencias Agronómicas,Ingeniería Agronómica
+b0e101ff6c5d,M***********,R*************,<=24,****0470,r***@ues.edu.sv,San Salvador Este,Ingeniería y Arquitectura,Ingeniería Civil
+63678c0ff83b,G***************,Á****************,25-34,****5797,á***@ues.edu.sv,Santa Ana Centro,Medicina,Doctorado en Medicina
+8ed85e35a2f3,C*************,M***********,25-34,****8585,m***@ues.edu.sv,La Libertad Sur,Humanidades,Licenciatura en Psicología
+3248757fe926,A**************,G****************,<=24,****6197,g***@ues.edu.sv,Sonsonate Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+9461c1b9baa2,F***************,D*************,<=24,****1080,d***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Ciencias de la Educación
+bae69730c078,V**************,R***************,25-34,****2719,r***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Ingeniería Agronómica
+e6a2bd8f0f04,R*************,R***********,<=24,****1508,r***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Idiomas Modernos
+b3eab4fa7bb5,M************,R************,<=24,****7453,r***@ues.edu.sv,San Salvador Central,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+7d6088140429,A*************,M*************,25-34,****9906,m***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+0254684c7396,D*********,R**************,25-34,****6208,r***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Ciencias de la Educación
+a84e2f7fca9f,D***************,C***********,<=24,****6195,c***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Administración de Empresas
+02913fb8b065,F*************,F***********,25-34,****6300,f***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Ciencias de la Educación
+ea9739b69148,C************,A************,<=24,****9692,a***@ues.edu.sv,San Miguel Centro,Ingeniería y Arquitectura,Arquitectura
+3b9f742e42db,D*************,Á***********,<=24,****4323,á***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Economía
+fa77af0f76d0,P***********,R************,<=24,****5676,r***@ues.edu.sv,Sonsonate Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+9168d43f60b4,M************,R**************,25-34,****5225,r***@ues.edu.sv,La Libertad Este,Medicina,Doctorado en Medicina
+6521992e7520,F*************,R*************,<=24,****0303,r***@ues.edu.sv,La Libertad Este,Ciencias Naturales y Matemática,Licenciatura en Química
+24336cbb25a5,R***********,G***************,<=24,****9082,g***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+289346428770,D*************,G***********,<=24,****9142,g***@ues.edu.sv,Usulután Este,Ciencias Económicas,Licenciatura en Administración de Empresas
+87542d4986a7,A***************,C***************,<=24,****4597,c***@ues.edu.sv,La Libertad Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+a6d9c3fcd103,R************,P*************,<=24,****5317,p***@ues.edu.sv,San Salvador Este,Ciencias Económicas,Licenciatura en Economía
+4d0386c73abe,L***********,M*****************,<=24,****4985,m***@ues.edu.sv,Santa Ana Centro,Ciencias Naturales y Matemática,Licenciatura en Matemática
+a67bd54a61c0,C***************,H**************,<=24,****0201,h***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+7452f138faa1,F***************,R*************,<=24,****1866,r***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Mercadeo Internacional
+c275b0838058,A****************,R*********,25-34,****2290,r***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Idiomas Modernos
+ab40cbbb4c35,O**************,C***********,<=24,****2280,c***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+46f16ce9c394,R**************,P**************,25-34,****8039,p***@ues.edu.sv,Santa Ana Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+889b23a1a72a,F*************,V**************,25-34,****9610,v***@ues.edu.sv,La Libertad Sur,Ingeniería y Arquitectura,Arquitectura
+450d9c5a73b9,C*************,M****************,<=24,****0901,m***@ues.edu.sv,San Salvador Este,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+2e098b0b7a9c,N**************,H*****************,<=24,****9916,h***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Idiomas Modernos
+2fe7b5a8e4a3,A*****************,A************,25-34,****6370,a***@ues.edu.sv,San Salvador Oeste,Medicina,Doctorado en Cirugía Dental
+f60261dc1744,F*************,R****************,<=24,****6374,r***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Psicología
+3d1ab40fbff8,J**********,M***************,25-34,****2568,m***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+fa0ac8c43ac5,S************,G*****************,<=24,****3282,g***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Laboratorio Clínico
+2c2e40718b41,N**************,C*************,<=24,****6738,c***@ues.edu.sv,Sonsonate Centro,Ciencias Económicas,Licenciatura en Contaduría Pública
+5c8b22d760f1,D***********,H**************,25-34,****4345,h***@ues.edu.sv,San Salvador Sur,Ciencias Económicas,Licenciatura en Administración de Empresas
+511e139a6f77,N************,G*************,25-34,****3562,g***@ues.edu.sv,Sonsonate Centro,Ingeniería y Arquitectura,Arquitectura
+fc6c10ca9866,R************,G************,<=24,****1281,g***@ues.edu.sv,La Libertad Sur,Ciencias Naturales y Matemática,Licenciatura en Física
+492dd68939bf,R***********,C********,<=24,****0353,c***@ues.edu.sv,San Salvador Oeste,Medicina,Licenciatura en Laboratorio Clínico
+63693aa960fb,V**************,M***************,<=24,****6135,m***@ues.edu.sv,San Salvador Norte,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+4f4d947d010e,N**************,R**********,<=24,****4112,r***@ues.edu.sv,San Miguel Centro,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+a3c7b6067d4a,S********,G**************,<=24,****4907,g***@ues.edu.sv,San Salvador Sur,Medicina,Licenciatura en Laboratorio Clínico
+93368616cd42,C**************,F***************,25-34,****0190,f***@ues.edu.sv,Santa Ana Centro,Ciencias Económicas,Licenciatura en Administración de Empresas
+9c58999e63d0,O************,Á**************,<=24,****1179,á***@ues.edu.sv,La Libertad Este,Medicina,Licenciatura en Enfermería
+e017da6025c3,A**************,C***********,<=24,****2684,c***@ues.edu.sv,Sonsonate Centro,Humanidades,Licenciatura en Psicología
+d78053a2e793,G************,R**************,<=24,****3420,r***@ues.edu.sv,Sonsonate Centro,Ciencias Naturales y Matemática,Licenciatura en Biología
+87951027ad21,J**************,R***********,25-34,****3665,r***@ues.edu.sv,Santa Ana Centro,Ingeniería y Arquitectura,Ingeniería Civil
+854bfad42009,A*************,C**********,<=24,****3813,c***@ues.edu.sv,La Libertad Centro,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+705b2a5e9824,D************,P************,25-34,****7427,p***@ues.edu.sv,Usulután Este,Medicina,Licenciatura en Enfermería
+b7e532e4a67f,L*********,L**************,25-34,****5254,l***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Administración de Empresas
+16bec19e9b49,S************,G*************,25-34,****9090,g***@ues.edu.sv,San Salvador Norte,Jurisprudencia y Ciencias Sociales,Licenciatura en Relaciones Internacionales
+d3228da40070,D***********,R*************,<=24,****5784,r***@ues.edu.sv,San Salvador Sur,Ingeniería y Arquitectura,Arquitectura
+0fecf25f145f,V**************,C********,<=24,****9843,c***@ues.edu.sv,San Salvador Central,Ingeniería y Arquitectura,Ingeniería de Sistemas Informáticos
+5f1a8eca6342,E**********,D***********,25-34,****0242,d***@ues.edu.sv,La Libertad Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+c8cbbf232a84,V************,G*************,<=24,****0928,g***@ues.edu.sv,San Salvador Sur,Humanidades,Licenciatura en Idiomas Modernos
+07a8a256f12d,D*************,A*************,<=24,****0047,a***@ues.edu.sv,San Salvador Norte,Humanidades,Licenciatura en Psicología
+326b4e3c6745,R**************,D*********,25-34,****6589,d***@ues.edu.sv,San Salvador Oeste,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+09f75eb95d53,A***********,C****************,25-34,****9592,c***@ues.edu.sv,San Salvador Central,Ciencias Agronómicas,Licenciatura en Medicina Veterinaria
+c832acbfcb8b,D***********,C**********,25-34,****2510,c***@ues.edu.sv,San Salvador Sur,Jurisprudencia y Ciencias Sociales,Licenciatura en Ciencias Jurídicas
+8c55d7f77ed0,F***************,R****************,25-34,****6950,r***@ues.edu.sv,San Salvador Este,Humanidades,Licenciatura en Idiomas Modernos
+e69167e60f02,M************,C**********,25-34,****3344,c***@ues.edu.sv,La Libertad Centro,Humanidades,Licenciatura en Idiomas Modernos
+61c765e73654,R************,R***********,<=24,****6378,r***@ues.edu.sv,Usulután Este,Ingeniería y Arquitectura,Ingeniería Mecánica
+8ee6c0344362,L************,F***********,<=24,****4617,f***@ues.edu.sv,San Salvador Norte,Ciencias Económicas,Licenciatura en Administración de Empresas

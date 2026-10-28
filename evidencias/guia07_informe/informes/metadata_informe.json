@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "fecha_generacion": "2026-10-28T00:30:22.350826-06:00",
+  "periodo_analizado": "10/01/2026 - 28/08/2026",
+  "fuentes_datos": [
+    "dataset_limpio_Proyecto_EdTech_Learning_Analytics.csv (Guía 2)",
+    "municipios_alertacampus_guia06_validado.csv (Guía 6)",
+    "alertas_sinteticas_alertacampus_guia06_validado.csv (Guía 6)"
+  ],
+  "filtros_aplicados": {
+    "periodo": "10/01/2026 - 28/08/2026",
+    "facultades": "todas",
+    "niveles_riesgo": "todos",
+    "municipios": "todos"
+  },
+  "kpis": {
+    "total_estudiantes": 1000,
+    "promedio_academico": 7.062215,
+    "asistencia_prom": 76.11,
+    "actividad_lms_prom": 9.495,
+    "riesgo_alto_pct": 46.7
+  },
+  "archivos_generados": [
+    "informe_EdTech_Learning_Analytics_v1.0.pdf",
+    "informe_EdTech_Learning_Analytics_v1.0.docx",
+    "informe_EdTech_Learning_Analytics.html",
+    "matriz_recomendaciones_guia07.xlsx",
+    "matriz_trazabilidad_guia07.xlsx"
+  ],
+  "capturas_powerbi": [
+    "dashboard_powerbi_resumen.png"
+  ],
+  "capturas_mapa_arcgis": [
+    "mapa_arcgis_1_internet_limitado.png",
+    "mapa_arcgis_2_materia_reprobada.png",
+    "mapa_arcgis_3_alertas_sinteticas.png",
+    "mapa_arcgis_4_requiere_seguimiento.png",
+    "mapa_arcgis_6_popup_materia_reprobada.png"
+  ],
+  "generado_por": "Proyecto_Edtech_Learning_Analytics_Parte7.ipynb"
+}
